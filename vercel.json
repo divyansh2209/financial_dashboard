@@ -14,10 +14,5 @@
             "source": "/(.*)",
             "destination": "index.js"
         }
-    ],
-    "build": {
-        "env": {
-            "NPM_FLAGS": "--legacy-peer-deps"
-        }
-    }
+    ]
 }
